@@ -3,7 +3,7 @@
 SIM, PROFESSOR.<br>
 
 ⇨ Quais são os principais campos e tipos?
-CPF, MATRICULA, CODIGO E ID<br>
+CPF, MATRICULA, CODIGO E ID / Varchar e INT<br>
 
 ⇨ Como essas entidades estão relacionadas?
 COM AS CHAVES PRIMARIAS<br>
