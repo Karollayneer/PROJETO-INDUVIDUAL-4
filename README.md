@@ -1,4 +1,4 @@
-# PROJETO-INDUVIDUAL-4
+# PROJETO-INDUVIDUAL-4 <br/>
 ⇨ Existem outras entidades além dessas três?
 SIM, PROFESSOR.
 ⇨ Quais são os principais campos e tipos?
